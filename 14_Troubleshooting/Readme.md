@@ -15,3 +15,7 @@ Troubleshooting Known Issues
 
 For support, send request to support@eclecticiq.com
 
+|										|																							|
+|:---									|													   								    ---:|
+| [Previous << Rest API](../13_Rest_API/Readme.md) |
+

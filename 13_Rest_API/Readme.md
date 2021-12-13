@@ -3613,6 +3613,7 @@ For ex: {“query_id”:2}
   "query_id": 2
 }
 ```
-	
 
-[Previous << Tables](../11_Tables/Readme.md)  
+|										|																							|
+|:---									|													   								    ---:|
+[Previous << Tables](../12_Tables/Readme.md)  | [Next >> Troubleshooting](../14_Troubleshooting/Readme.md)|

@@ -16,7 +16,7 @@ Here is format used to define queries.
          "platform": "operating system",
          "version": "x.x.x",
          "description": "this describes the query",
-        "value": "Process Events",
+         "value": "Process Events",
          "removed": false
        },
  ```    

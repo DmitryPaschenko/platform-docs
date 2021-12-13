@@ -455,4 +455,4 @@ for error details.
 	
 |										|																							|
 |:---									|													   								    ---:|
-|[Previous << Provisioning the EclecticIQ ER Server](../02_Provisioning_EclecticIQ_ER_Server/Readme.md)  | [Next >> Configuring the server](../04_EclecticIQ_ER_Configurations/Readme.md)|
+|[Previous << Provisioning the EclecticIQ ER Server](../02_Provisioning_EclecticIQ_ER_Server/Readme.md)  | [Next >> Configuring the server](../04_EclecticIQ_ER_Server_Configurations/Readme.md)|

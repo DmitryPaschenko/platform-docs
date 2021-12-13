@@ -103,4 +103,4 @@ Perform these steps to view or edit this configuration:
 
 |										|																							|
 |:---									|													   								    ---:|
-|[Previous << Configuring the server](../04_EclecticIQ_ER_Configurations/Readme.md)  | [Next >> Configuring the filters](../06_Understanding_Filters/Readme.md)|
+|[Previous << Configuring the server](../04_EclecticIQ_ER_Server_Configurations/Readme.md)  | [Next >> Configuring the filters](../06_Understanding_Filters/Readme.md)|
